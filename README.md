@@ -6,4 +6,4 @@ Veri tabanına bağlı bir bilgi yarışması
 kodların yanlarına açıklamalarını da yazdım bakabilirsiniz.
 
 mücahit haşim ipek
-yazılımcı olma yolunda ilerliyorum.
+
